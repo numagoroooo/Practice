@@ -71,3 +71,4 @@ C:\Users\hsnm0\home\backend\obj\Debug\net9.0\refint\backend.dll
 C:\Users\hsnm0\home\backend\obj\Debug\net9.0\backend.pdb
 C:\Users\hsnm0\home\backend\obj\Debug\net9.0\backend.genruntimeconfig.cache
 C:\Users\hsnm0\home\backend\obj\Debug\net9.0\ref\backend.dll
+C:\Users\hsnm0\home\backend\obj\Debug\net9.0\backend.sourcelink.json
